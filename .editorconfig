@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CS4014: Because this call is not awaited, execution of the current method continues before the call is completed
+dotnet_diagnostic.CS4014.severity = none
+
+# CS0169: The field 'Client.serverStream' is never used
+dotnet_diagnostic.CS0169.severity = none
+
+# CS2012: Cannot open 'C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.exe' for writing -- 'The process cannot access the file 'C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.exe' because it is being used by another process.'
+dotnet_diagnostic.CS2012.severity = none

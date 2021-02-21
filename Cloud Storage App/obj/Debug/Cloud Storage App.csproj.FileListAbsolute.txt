@@ -1,0 +1,31 @@
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\bin\Debug\Cloud Storage App.exe.config
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\bin\Debug\Cloud Storage App.exe
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\bin\Debug\Cloud Storage App.pdb
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.DownloadWindow.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.FileDetailsWindow.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.LoadingScreen.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.OptionHelpForm.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.TrashForm.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.MainMenu.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.CloudManager.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.CustomMessageBox.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.SplashScreen.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.StoreDataWindow.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.LogInForm.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.LoginServer.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.RegisterForm.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.Properties.Resources.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.ServerWindow.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.StartWindow.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.csproj.CopyComplete
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.exe
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.pdb
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud_Storage_App.CreditsWindow.resources
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\bin\Debug\Cloud Storage App.exe.manifest
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\bin\Debug\Cloud Storage App.application
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.exe.manifest
+C:\Users\mario\source\repos\Cloud Storage App\Cloud Storage App\obj\Debug\Cloud Storage App.application
