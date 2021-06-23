@@ -28,7 +28,7 @@ namespace Cloud_Storage_App
             clientSocket = new TcpClient();
             try
             {
-                clientSocket.Connect("192.168.0.163", 8888);
+                clientSocket.Connect("192.168.0.106", 8888);
                 networkStream = clientSocket.GetStream();
             }catch(Exception e)
             {

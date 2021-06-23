@@ -302,7 +302,6 @@
     <None Include="Assets\yellowBackground_FHD.png" />
     <Content Include="Python Scripts\PushNotificationUpload.py" />
     <Content Include="Python Scripts\win10toast.py" />
-    <Content Include="TODO.txt" />
     <None Include="Assets\background_2.png" />
     <None Include="Assets\download_ic.png" />
     <None Include="Assets\fileExplorer_ic.png" />

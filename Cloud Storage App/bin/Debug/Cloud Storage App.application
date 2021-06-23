@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Cloud Storage App.exe.manifest" size="20777">
+    <dependentAssembly dependencyType="install" codebase="Cloud Storage App.exe.manifest" size="20393">
       <assemblyIdentity name="Cloud Storage App.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>f/HgiHs37a2z18lqH0cal+Cr14jYMptexeASvaSRgqQ=</dsig:DigestValue>
+        <dsig:DigestValue>m4+Nsy3NwYt9D88J27xE/VRy0sWH0sBnasDqYft+glE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
